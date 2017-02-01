@@ -5,6 +5,6 @@
 path="/home/mangos/server/bin"
 while true; do
 cd $path
-./mangos
+./mangosd
 wait
 done
